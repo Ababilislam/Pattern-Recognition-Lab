@@ -1,0 +1,3 @@
+Installing Python is generally easy, and nowadays many Linux and UNIX distributions
+include a recent Python. Even some Windows computers (notably those from HP) now
+come with Python already installed.
